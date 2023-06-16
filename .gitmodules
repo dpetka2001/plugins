@@ -1,3 +1,0 @@
-[submodule "telescope-project.nvim"]
-	path = telescope-project.nvim
-	url = git@github.com:dpetka2001/telescope-project.nvim
